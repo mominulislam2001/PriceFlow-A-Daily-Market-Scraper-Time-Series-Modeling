@@ -1,0 +1,61 @@
+Serial Number,Product Group,Product Name and Description,Unit Retail,Retail Price (Tk) Lowest Price - Highest Price,Unit Wholesale,Wholesale Price (Tk) Lowest Price - Highest Price,Price Date
+1,Foodgrains,Aman-Fine,Kilogram,40--45,Quintal,4400--4400, 16/08/2019
+2,Foodgrains,Aman-Medium,Kilogram,32--33,Quintal,3200--3200, 16/08/2019
+3,Foodgrains,Aman-Coarse,Kilogram,27--28,Quintal,2700--2700, 16/08/2019
+4,Foodgrains,Boro-HYV-Fine,Kilogram,44--45,Quintal,4400--4400, 16/08/2019
+5,Foodgrains,Boro-HYV-Medium,Kilogram,29--30,Quintal,2900--2900, 16/08/2019
+6,Foodgrains,Boro-HYV-Coarse,Kilogram,29--30,Quintal,2900--2900, 16/08/2019
+7,Foodgrains,Local-White,Kilogram,25--26,Quintal,2400--2400, 16/08/2019
+8,Foodgrains,Imported-Red,Kilogram,28--30,Quintal,2800--2800, 16/08/2019
+9,Foodgrains,Ata (loose) - white,Kilogram,30--32,Quintal,2800--2800, 16/08/2019
+10,Foodgrains,Muri,Kilogram,60--62,Quintal,5600--5600, 16/08/2019
+11,Foodgrains,Chira,Kilogram,55--56,Quintal,4900--4900, 16/08/2019
+12,Dal,Mash (broken),Kilogram,100--102,Quintal,9600--9600, 16/08/2019
+13,Dal,Masur (whole) local,Kilogram,100--105,Quintal,9600--9600, 16/08/2019
+14,Dal,Masur (broken) local,Kilogram,70--72,Quintal,6200--6200, 16/08/2019
+15,Dal,Masur (Imported) Superior quality,Kilogram,105--110,Quintal,10000--10000, 16/08/2019
+16,Dal,Motar (Peas)-Imported,Kilogram,44--45,Quintal,4000--4000, 16/08/2019
+17,Oil,Soybean Oil(loose),Liter,77--78,100 Liters,7500--7500, 16/08/2019
+18,Oil,Palm Oil,Liter,60--62,100 Liters,6000--6000, 16/08/2019
+19,Spices,Clove(Lobonga),10 gm,4--4,Kilogram,250--250, 16/08/2019
+20,Spices,Cinnamon(Daruchini),10 gm,4--4,Kilogram,230--230, 16/08/2019
+21,Spices,Dried Chili (Chittagong) - Superior,Kilogram,170--180,Quintal,17000--17000, 16/08/2019
+22,Spices,Dried Chili (Bogra/Rangpur) - Ordinary,Kilogram,150--160,Quintal,14200--14200, 16/08/2019
+23,Spices,Onion (local),Kilogram,34--35,Quintal,3300--3300, 16/08/2019
+24,Spices,Garlic (local) - Big Size,Kilogram,120--130,Quintal,11000--11000, 16/08/2019
+25,Spices,Green Chili (Local),Kilogram,70--75,Quintal,6400--6400, 16/08/2019
+26,Spices,Ginger (local) - Old,Kilogram,180--200,Quintal,18000--18000, 16/08/2019
+27,Poultry,Local Hen - Big (above 900 gm),Kilogram,430--440,Quintal,40200--40200, 16/08/2019
+28,Poultry,Local Hen - Medium (700-850 gm),Kilogram,430--440,Quintal,40200--40200, 16/08/2019
+29,Poultry,Local Hen - Small (500-650 gm),Kilogram,430--440,Quintal,40200--40200, 16/08/2019
+30,Poultry,Farm-raised Hen,Kilogram,100--105,Quintal,11200--11200, 16/08/2019
+31,Meat,Beef,Kilogram,520--525,Quintal,50000--50000, 16/08/2019
+32,Egg,Egg Hen-Local,4 Pieces,44--45,100 pieces,1020--1020, 16/08/2019
+33,Egg,Egg Farm-Red,4 Pieces,35--36,100 pieces,825--825, 16/08/2019
+34,Egg,Egg Duck-Local,4 Pieces,44--45,100 pieces,1020--1020, 16/08/2019
+35,Fish,Ruhi (Local) big (above 5 kg),Kilogram,230--240,Quintal,22200--22200, 16/08/2019
+36,Fish,Katla-Small (1.50-2.00 kg),Kilogram,230--240,Quintal,20200--20200, 16/08/2019
+37,Fish,Pangash (small),Kilogram,70--75,Quintal,6200--6200, 16/08/2019
+38,Fish,Pangash (big),Kilogram,100--120,Quintal,10000--10000, 16/08/2019
+39,Fish,Silver Carp,Kilogram,100--120,Quintal,10000--10000, 16/08/2019
+40,Fish,Grass carp,Kilogram,100--120,Quintal,10200--10200, 16/08/2019
+41,Fish,Telapia/Nilotica,Kilogram,120--140,Quintal,10000--10000, 16/08/2019
+42,Vegetable,Potato (Local) - Old,Kilogram,24--25,Quintal,2200--2200, 16/08/2019
+43,Vegetable,Potato (Holland) - White (Old),Kilogram,20--22,Quintal,1800--1800, 16/08/2019
+44,Vegetable,Brinjal - Superior Quality,Kilogram,18--20,Quintal,1400--1400, 16/08/2019
+45,Vegetable,Brinjal - Ordinary Quality,Kilogram,12--14,Quintal,1000--1000, 16/08/2019
+46,Vegetable,Patal (Pointed Gourd),Kilogram,24--25,Quintal,2000--2000, 16/08/2019
+47,Vegetable,Pumpkin (Sweet Gourd),Kilogram,18--20,Quintal,1400--1400, 16/08/2019
+48,Vegetable,Karalla (Bitter Gourd),Kilogram,32--36,Quintal,2800--2800, 16/08/2019
+49,Vegetable,Jhinga (Tasle Gourd),Kilogram,18--20,Quintal,1500--1500, 16/08/2019
+50,Vegetable,Green Papaya,Kilogram,15--16,Quintal,1300--1300, 16/08/2019
+51,Vegetable,Lady`s Finger (Okra),Kilogram,30--32,Quintal,2500--2500, 16/08/2019
+52,Vegetable,Chichinga (Snakegourd),Kilogram,20--22,Quintal,1400--1400, 16/08/2019
+53,Vegetable,Kochur Loti (Aroid succer),Kilogram,36--38,Quintal,3000--3000, 16/08/2019
+54,Vegetable,Cucumber-big,Kilogram,55--60,Quintal,5200--5200, 16/08/2019
+55,Vegetable,Tomato,Kilogram,140--150,Quintal,12000--12000, 16/08/2019
+56,Vegetable,Red Spinach,Kilogram,30--32,Quintal,2200--2200, 16/08/2019
+57,Vegetable,Malabar Spinach (Puisak),Kilogram,24--25,Quintal,1600--1600, 16/08/2019
+58,Others,Sugar (Local),Kilogram,50--52,Quintal,4900--4900, 16/08/2019
+59,Others,Iodized Salt (Packed),Kilogram,30--35,Quintal,3000--3000, 16/08/2019
+60,Others,Iodized Salt (Loose) - Ordinary,Kilogram,18--20,Quintal,1520--1520, 16/08/2019

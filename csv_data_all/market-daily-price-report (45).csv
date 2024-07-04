@@ -1,0 +1,59 @@
+Serial Number,Product Group,Product Name and Description,Unit Retail,Retail Price (Tk) Lowest Price - Highest Price,Unit Wholesale,Wholesale Price (Tk) Lowest Price - Highest Price,Price Date
+1,Foodgrains,Boro-HYV-Fine,Kilogram,55--57,Quintal,, 13/05/2014
+2,Foodgrains,Boro-HYV-Medium,Kilogram,41--43,Quintal,, 13/05/2014
+3,Foodgrains,Aman-HYV-Coarse,Kilogram,28--30,Quintal,2750--2750, 13/05/2014
+4,Foodgrains,Boro-HYV-Coarse,Kilogram,30--31,Quintal,, 13/05/2014
+5,Foodgrains,Aman-HYV-Medium,Kilogram,35--36,Quintal,3450--3450, 13/05/2014
+6,Foodgrains,Ata (loose) - white,Kilogram,28--30,Quintal,2700--2700, 13/05/2014
+7,Foodgrains,Ata (packet),Kilogram,33--34,Quintal,3200--3200, 13/05/2014
+8,Foodgrains,Flour (loose),Kilogram,38--39,Quintal,3700--3700, 13/05/2014
+9,Foodgrains,Flour (packet),Kilogram,42--43,Quintal,4100--4100, 13/05/2014
+10,Dal,Masur (whole) local,Kilogram,100--105,Quintal,9900--9900, 13/05/2014
+11,Dal,Masur (Imported) ordinary,Kilogram,106--108,Quintal,10500--10500, 13/05/2014
+12,Dal,Mung (local),Kilogram,110--112,Quintal,9900--9900, 13/05/2014
+13,Oil,Soybean Oil(loose),Liter,116--117,100 Liters,14500--14500, 13/05/2014
+14,Oil,Palm Oil,Liter,79--80,100 Liters,7800--7800, 13/05/2014
+15,Spices,Dried Chili (Battakandi) - Ordinary,Kilogram,180--185,Quintal,17500--17500, 13/05/2014
+16,Spices,Onion (local),Kilogram,30--32,Quintal,2900--2900, 13/05/2014
+17,Spices,Onion-imported,Kilogram,20--22,Quintal,1850--1850, 13/05/2014
+18,Spices,Garlic (local) - Big Size,Kilogram,60--62,Quintal,5900--5900, 13/05/2014
+19,Spices,Garlic (Imported),Kilogram,70--72,Quintal,6900--6900, 13/05/2014
+20,Spices,Green Chili (Local),Kilogram,40--42,Quintal,3700--3700, 13/05/2014
+21,Spices,Ginger (local) - New,Kilogram,195--200,Quintal,19000--19000, 13/05/2014
+22,Poultry,Local Hen - Medium (700-850 gm),Kilogram,250--255,Quintal,24800--24800, 13/05/2014
+23,Poultry,Farm-raised Hen,Kilogram,140--145,Quintal,13900--13900, 13/05/2014
+24,Meat,Beef,Kilogram,255--260,Quintal,25000--25000, 13/05/2014
+25,Meat,Mutton (male),Kilogram,400--420,Quintal,39500--39500, 13/05/2014
+26,Egg,Egg Farm-Red,4 Pieces,28--30,100 pieces,670--670, 13/05/2014
+27,Fish,Ruhi (Local) - small (1.50-2.00 kg),Kilogram,230--235,Quintal,22500--22500, 13/05/2014
+28,Fish,Katla-Small (1.50-2.00 kg),Kilogram,200--210,Quintal,19500--19500, 13/05/2014
+29,Fish,Pangash (small),Kilogram,105--110,Quintal,10000--10000, 13/05/2014
+30,Fish,Silver Carp,Kilogram,120--130,Quintal,12000--12000, 13/05/2014
+31,Fish,Grass carp,Kilogram,130--140,Quintal,12500--12500, 13/05/2014
+32,Fish,Telapia/Nilotica,Kilogram,100--110,Quintal,9500--9500, 13/05/2014
+33,Fruit,Green-Coconut,1 piece,20--22,100 pieces,1900--1900, 13/05/2014
+34,Fruit,Orange,4 Pieces,60--65,100 pieces,1400--1400, 13/05/2014
+35,Fruit,Apple,Kilogram,140--150,Quintal,13800--13800, 13/05/2014
+36,Fruit,Watermelon,1 piece,60--70,100 pieces,5600--5600, 13/05/2014
+37,Fruit,Coconut,1 piece,30--32,100 pieces,2900--2900, 13/05/2014
+38,Fruit,Banana-Sabri (ordinary),4 Pieces,24--26,80 Pieces,470--470, 13/05/2014
+39,Fruit,Banana-Sagar (ordinary),4 Pieces,14--16,80 Pieces,270--270, 13/05/2014
+40,Vegetable,Potato (Holland) - White (New),Kilogram,17--18,Quintal,1550--1550, 13/05/2014
+41,Vegetable,Potato (Holland) - Red (New),Kilogram,16--17,Quintal,1650--1650, 13/05/2014
+42,Vegetable,Brinjal - Ordinary Quality,Kilogram,22--24,Quintal,2200--2200, 13/05/2014
+43,Vegetable,Patal (Pointed Gourd),Kilogram,20--22,Quintal,1650--1650, 13/05/2014
+44,Vegetable,Pumpkin (Sweet Gourd),Kilogram,18--20,Quintal,1900--1900, 13/05/2014
+45,Vegetable,Uchehhe (Bitter Gourd),1 KG,38--40,Quintal,3700--3700, 13/05/2014
+46,Vegetable,Jhinga (Tasle Gourd),Kilogram,20--22,Quintal,1900--1900, 13/05/2014
+47,Vegetable,Green Papaya,Kilogram,20--22,Quintal,1650--1650, 13/05/2014
+48,Vegetable,Lady`s Finger (Okra),Kilogram,20--22,Quintal,1800--1800, 13/05/2014
+49,Vegetable,Chichinga (Snakegourd),Kilogram,20--22,Quintal,1900--1900, 13/05/2014
+50,Vegetable,Carrot,Kilogram,30--32,Quintal,2900--2900, 13/05/2014
+51,Vegetable,Green Banana,1 piece,18--20,100 pieces,1700--1700, 13/05/2014
+52,Vegetable,Khirai (Small Cucumber),Kilogram,22--24,Quintal,2000--2000, 13/05/2014
+53,Vegetable,Barbati (Yardlong bean),Kilogram,20--22,Quintal,1900--1900, 13/05/2014
+54,Vegetable,Tomato,Kilogram,40--42,Quintal,3800--3800, 13/05/2014
+55,Vegetable,Red Spinach,Kilogram,20--22,Quintal,1900--1900, 13/05/2014
+56,Vegetable,Malabar Spinach (Puisak),Kilogram,15--16,Quintal,1400--1400, 13/05/2014
+57,Others,Sugar (Imported),Kilogram,42--43,Quintal,4100--4100, 13/05/2014
+58,Others,Iodized Salt (Packed),Kilogram,14--24,Quintal,2300--2300, 13/05/2014

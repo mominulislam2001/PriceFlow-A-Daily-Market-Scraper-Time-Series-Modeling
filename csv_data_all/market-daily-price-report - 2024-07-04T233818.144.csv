@@ -1,0 +1,263 @@
+Serial Number,Product Group,Product Name and Description,Unit Retail,Retail Price (Tk) Lowest Price - Highest Price,Unit Wholesale,Wholesale Price (Tk) Lowest Price - Highest Price,Price Date
+1,Foodgrains,Aman-Aromatic (polao),Kilogram,,Quintal,6300--6300, 09/04/2023
+2,Foodgrains,Aman-Local-Fine,Kilogram,36--37,Quintal,3588--3588, 09/04/2023
+3,Foodgrains,Aman-Local-Medium,Kilogram,32--33,Quintal,3254--3254, 09/04/2023
+4,Foodgrains,Aman-Local-Coarse,Kilogram,29--30,Quintal,2950--2950, 09/04/2023
+5,Foodgrains,Aus-HYV-Medium,Kilogram,20--24,Quintal,2000--2000, 09/04/2023
+6,Foodgrains,Boro-Fine,Kilogram,35--36,Quintal,3733--3733, 09/04/2023
+7,Foodgrains,Aman-HYV-Medium,Kilogram,34--35,Quintal,3192--3192, 09/04/2023
+8,Foodgrains,Aman-HYV-Fine,Kilogram,36--37,Quintal,3363--3363, 09/04/2023
+9,Foodgrains,Boro-Medium,Kilogram,33--34,Quintal,3301--3301, 09/04/2023
+10,Foodgrains,Boro Coarse,Kilogram,,Quintal,2923--2923, 09/04/2023
+11,Foodgrains,Aman-HYV-Coarse,Kilogram,28--29,Quintal,2930--2930, 09/04/2023
+12,Foodgrains,Boro-Local,Kilogram,,Quintal,2800--2800, 09/04/2023
+13,Foodgrains,Aman-Super-Fine,Kilogram,80--84,Quintal,8200--8200, 09/04/2023
+14,Foodgrains,Aman-Fine,Kilogram,70--75,Quintal,7080--7080, 09/04/2023
+15,Foodgrains,Aman-Medium,Kilogram,53--57,Quintal,5369--5369, 09/04/2023
+16,Foodgrains,Aman-Coarse,Kilogram,46--48,Quintal,4511--4511, 09/04/2023
+17,Foodgrains,Aman-Pajam,Kilogram,57--62,Quintal,5800--5800, 09/04/2023
+18,Foodgrains,Boro-HYV-Fine,Kilogram,69--73,Quintal,6984--6984, 09/04/2023
+19,Foodgrains,Boro-Pajam,Kilogram,68--70,Quintal,6850--6850, 09/04/2023
+20,Foodgrains,Atap,Kilogram,45--46,Quintal,4300--4300, 09/04/2023
+21,Foodgrains,Boro-HYV-Medium,Kilogram,56--60,Quintal,5694--5694, 09/04/2023
+22,Foodgrains,Aman-HYV-Coarse,Kilogram,45--47,Quintal,4455--4455, 09/04/2023
+23,Foodgrains,Aman-HYV-Fine,Kilogram,76--79,Quintal,7350--7350, 09/04/2023
+24,Foodgrains,Boro-HYV-Coarse,Kilogram,46--48,Quintal,4552--4552, 09/04/2023
+25,Foodgrains,Aman-HYV-Medium,Kilogram,55--58,Quintal,5443--5443, 09/04/2023
+26,Foodgrains,Boro-Local,Kilogram,48--49,Quintal,4550--4550, 09/04/2023
+27,Foodgrains,Local-Red,Kilogram,47--48,Quintal,4425--4425, 09/04/2023
+28,Foodgrains,Local-White,Kilogram,50--52,Quintal,4855--4855, 09/04/2023
+29,Foodgrains,Imported-Red,Kilogram,54--55,Quintal,5200--5200, 09/04/2023
+30,Foodgrains,Imported-White,Kilogram,51--53,Quintal,5033--5033, 09/04/2023
+31,Foodgrains,Ata (loose) - white,Kilogram,56--58,Quintal,5441--5441, 09/04/2023
+32,Foodgrains,Ata (packet),Kilogram,65--68,Quintal,6362--6362, 09/04/2023
+33,Foodgrains,Ata (loose) - red,Kilogram,59--61,Quintal,5800--5800, 09/04/2023
+34,Foodgrains,Flour (loose),Kilogram,63--66,Quintal,6090--6090, 09/04/2023
+35,Foodgrains,Flour-Suji,Kilogram,65--70,Quintal,6200--6200, 09/04/2023
+36,Foodgrains,Flour (packet),Kilogram,75--77,Quintal,7235--7235, 09/04/2023
+37,Foodgrains,Maize,Kilogram,36--38,Quintal,3492--3492, 09/04/2023
+38,Foodgrains,Chinigura,Kilogram,126--136,Quintal,12505--12505, 09/04/2023
+39,Foodgrains,Kalojira,Kilogram,115--122,Quintal,11222--11222, 09/04/2023
+40,Foodgrains,Kataribhog,Kilogram,92--97,Quintal,8983--8983, 09/04/2023
+41,Foodgrains,Muri,Kilogram,73--86,Quintal,7636--7636, 09/04/2023
+42,Foodgrains,Chira,Kilogram,59--63,Quintal,5682--5682, 09/04/2023
+43,Foodgrains,Aus-Coarse,Kilogram,47--48,Quintal,4800--4800, 09/04/2023
+44,Foodgrains,Boro-Coarse,Kilogram,33--34,Quintal,3085--3085, 09/04/2023
+45,Foodgrains,Rice-Boro-Medium,Kilogram,22--23,Quintal,2925--2925, 09/04/2023
+46,Foodgrains,Rice-Boro-Fine,Kilogram,,Quintal,4000--4000, 09/04/2023
+47,Dal,Mash (whole),Kilogram,143--150,Quintal,13863--13863, 09/04/2023
+48,Dal,Mash (broken),Kilogram,138--144,Quintal,13350--13350, 09/04/2023
+49,Dal,Masur (whole) local,Kilogram,129--135,Quintal,12696--12696, 09/04/2023
+50,Dal,Masur (broken) local,Kilogram,100--105,Quintal,9640--9640, 09/04/2023
+51,Dal,Masur (Imported) Superior quality,Kilogram,111--119,Quintal,11041--11041, 09/04/2023
+52,Dal,Masur (Imported) ordinary,Kilogram,96--102,Quintal,9364--9364, 09/04/2023
+53,Dal,Mung (local),Kilogram,118--129,Quintal,11938--11938, 09/04/2023
+54,Dal,Mung (imported),Kilogram,107--116,Quintal,10458--10458, 09/04/2023
+55,Dal,Gram (whole),Kilogram,85--90,Quintal,8300--8300, 09/04/2023
+56,Dal,Gram (broken),Kilogram,89--92,Quintal,8575--8575, 09/04/2023
+57,Dal,Motar (Peas)-Imported,Kilogram,65--68,Quintal,6317--6317, 09/04/2023
+58,Dal,Motar (Peas)-local,Kilogram,91--99,Quintal,9175--9175, 09/04/2023
+59,Dal,Khesari,Kilogram,79--82,Quintal,7571--7571, 09/04/2023
+60,Oil Seed,Mustard,Kilogram,80--88,Quintal,8075--8075, 09/04/2023
+61,Oil Seed,Ground Nut,Kilogram,150--160,Quintal,14250--14250, 09/04/2023
+62,Oil,Mustard Oil (Local) - Superior quality,Liter,206--216,100 Liters,19568--19568, 09/04/2023
+63,Oil,Mustard Oil (Local) - Ordinary,Liter,226--241,100 Liters,22624--22624, 09/04/2023
+64,Oil,Soybean Oil(loose),Liter,169--171,100 Liters,16544--16544, 09/04/2023
+65,Oil,Palm Oil,Liter,127--130,100 Liters,12505--12505, 09/04/2023
+66,Oil,Vegetable Ghee,Liter,153--159,100 Liters,14858--14858, 09/04/2023
+67,Oil,Coconut Oil (local),Liter,250--298,100 Liters,26800--26800, 09/04/2023
+68,Oil,Coconut  Oil (Imported) - Superior Quality,Liter,380--400,100 Liters,36000--36000, 09/04/2023
+69,Oil,Coconut Oil (Imported) - Ordinary,Liter,295--310,100 Liters,27900--27900, 09/04/2023
+70,Oil Cake,Oil Cake - Mustard,Kilogram,49--51,Quintal,4767--4767, 09/04/2023
+71,Spices,Black Pepper(Golmorich),10 gm,8--10,Kilogram,750--750, 09/04/2023
+72,Spices,Clove(Lobonga),10 gm,16--17,Kilogram,1325--1325, 09/04/2023
+73,Spices,Cinnamon(Daruchini),10 gm,5--6,Kilogram,372--372, 09/04/2023
+74,Spices,Zain,10 gm,3--4,Kilogram,175--175, 09/04/2023
+75,Spices,Fennel/Aniseed,10 gm,4--5,Kilogram,305--305, 09/04/2023
+76,Spices,Cumin (Seed),10 gm,8--10,Kilogram,645--645, 09/04/2023
+77,Spices,Black Cumin (Seed)(Kalozira),10 gm,4--5,Kilogram,270--270, 09/04/2023
+78,Spices,Fenugreek(Methi),10 gm,3--4,Kilogram,140--140, 09/04/2023
+79,Spices,Dried Chili (Bogra/Rangpur) - Superior,Kilogram,370--392,Quintal,35778--35778, 09/04/2023
+80,Spices,Dried Chili (Barisal/Raypur/Chandpur) - Superior,Kilogram,420--466,Quintal,42400--42400, 09/04/2023
+81,Spices,Dried Chili (Chittagong) - Superior,Kilogram,495--515,Quintal,48500--48500, 09/04/2023
+82,Spices,Dried Chili (Battakandi) - Superior,Kilogram,325--340,Quintal,31500--31500, 09/04/2023
+83,Spices,Dried Chili (Local) - Superior,Kilogram,376--407,Quintal,38143--38143, 09/04/2023
+84,Spices,Turmeric (Local) - Long (Superior),Kilogram,163--177,Quintal,15785--15785, 09/04/2023
+85,Spices,Turmeric (Imported),Kilogram,148--155,Quintal,14000--14000, 09/04/2023
+86,Spices,Turmeric (Local) - Round (Ordinary),Kilogram,160--170,Quintal,15000--15000, 09/04/2023
+87,Spices,Turmeric (Local) - Long (Ordinary),Kilogram,148--158,Quintal,14438--14438, 09/04/2023
+88,Spices,Dried Chili (Bogra/Rangpur) - Ordinary,Kilogram,373--420,Quintal,38333--38333, 09/04/2023
+89,Spices,Dried Chili (Barisal/Raypur/Chandpur) - Ordinary,Kilogram,350--365,Quintal,34500--34500, 09/04/2023
+90,Spices,Dried Chili (Imported) - Ordinary,Kilogram,419--429,Quintal,39571--39571, 09/04/2023
+91,Spices,Dried Chili (Local) - Ordinary,Kilogram,355--387,Quintal,29217--29217, 09/04/2023
+92,Spices,Coriander Seed (Old),Kilogram,121--128,Quintal,11400--11400, 09/04/2023
+93,Spices,Onion (local),Kilogram,31--34,Quintal,2945--2945, 09/04/2023
+94,Spices,Onion-imported,Kilogram,34--37,Quintal,3234--3234, 09/04/2023
+95,Spices,Onion (New),Kilogram,32--36,Quintal,3044--3044, 09/04/2023
+96,Spices,Garlic (local) - Big Size,Kilogram,86--100,Quintal,8468--8468, 09/04/2023
+97,Spices,Garlic (Imported),Kilogram,130--140,Quintal,12484--12484, 09/04/2023
+98,Spices,Green Chili (Local),Kilogram,66--78,Quintal,6179--6179, 09/04/2023
+99,Spices,Ginger (local) - Old,Kilogram,135--147,Quintal,12787--12787, 09/04/2023
+100,Spices,Ginger (local) - New,Kilogram,179--188,Quintal,17250--17250, 09/04/2023
+101,Spices,Ginger (Imported),Kilogram,141--155,Quintal,13445--13445, 09/04/2023
+102,Spices,Cardamom - Big,10 gm,18--19,Kilogram,1525--1525, 09/04/2023
+103,Spices,Cardamom - Small,10 gm,25--32,Kilogram,2680--2680, 09/04/2023
+104,Spices,Dry Chilli,Quintal,387--435,Quintal,40773--40773, 09/04/2023
+105,Fibre,White Cotton (B-Bottom),Kilogram,60--70,Quintal,6750--6750, 09/04/2023
+106,Fibre,Tossa Cotton (Medium),Kilogram,,Quintal,5200--5200, 09/04/2023
+107,Fibre,Tossa Cotton (C-Bottom),Kilogram,,Quintal,7000--7000, 09/04/2023
+108,Fibre,Tossa Cotton (Garsat - Average quality),Kilogram,,Quintal,6000--6000, 09/04/2023
+109,Leather,Calf Leather (Medium) - Salt Mixed,1 piece,443--517,100 pieces,52000--52000, 09/04/2023
+110,Leather,Cow Leather (Heavy) - Salt Mixed,1 piece,713--805,100 pieces,75000--75000, 09/04/2023
+111,Leather,Cow Leather (Light) - Salt Mixed,1 piece,375--550,100 pieces,65000--65000, 09/04/2023
+112,Leather,Buffalo Leather (Heavy),1 piece,400--500,100 pieces,60000--60000, 09/04/2023
+113,Leather,Ram Leather/Sheep Leather,1 piece,28--38,100 pieces,4500--4500, 09/04/2023
+114,Leather,Goat Leather,1 piece,17--27,100 pieces,2700--2700, 09/04/2023
+115,Milk,Dano - Powdered Milk,2 Kg,1620--1665,12 Kg,9320--9320, 09/04/2023
+116,Milk,Condensed Milk - Danish (1 Carton),1 piece,76--80,48 Pieces,3520--3520, 09/04/2023
+117,Poultry,Local Hen - Big (above 900 gm),Kilogram,535--552,Quintal,52636--52636, 09/04/2023
+118,Poultry,Local Hen - Medium (700-850 gm),Kilogram,542--559,Quintal,52313--52313, 09/04/2023
+119,Poultry,Local Hen - Small (500-650 gm),Kilogram,523--537,Quintal,51600--51600, 09/04/2023
+120,Poultry,Farm-raised Hen,Kilogram,196--203,Quintal,18755--18755, 09/04/2023
+121,Poultry,Local Duck - Big (above 900 gm),Kilogram,450--500,Quintal,45800--45800, 09/04/2023
+122,Poultry,Local Duck - Medium (700-850 gm),Kilogram,348--350,Quintal,36000--36000, 09/04/2023
+123,Meat,Beef,Kilogram,700--721,Quintal,63236--63236, 09/04/2023
+124,Meat,Buffalo Meat,Kilogram,800--850,Quintal,76000--76000, 09/04/2023
+125,Meat,Lamb (Sheep Meat),Kilogram,840--850,Quintal,83000--83000, 09/04/2023
+126,Meat,Chicken,Kilogram,580--600,Quintal,54000--54000, 09/04/2023
+127,Meat,Mutton (male),Kilogram,932--977,Quintal,86375--86375, 09/04/2023
+128,Meat,Mutton (female),Kilogram,943--960,Quintal,92000--92000, 09/04/2023
+129,Meat,Mutton,Kilogram,900--1025,Quintal,43925--43925, 09/04/2023
+130,Meat,Local,Kilogram,480--508,Quintal,34475--34475, 09/04/2023
+131,Meat,Broiler Farm,Kilogram,193--202,Quintal,18464--18464, 09/04/2023
+132,Egg,Egg Hen-Local,4 Pieces,62--65,100 pieces,1496--1496, 09/04/2023
+133,Egg,Egg Farm-Red,4 Pieces,42--43,100 pieces,992--992, 09/04/2023
+134,Egg,Egg Farm-White,4 Pieces,41--43,100 pieces,985--985, 09/04/2023
+135,Egg,Egg Duck-Local,4 Pieces,57--60,100 pieces,1387--1387, 09/04/2023
+136,Fish,Dried Laitta,Kilogram,673--745,Quintal,69000--69000, 09/04/2023
+137,Fish,Dried Puti,Kilogram,650--700,Quintal,65000--65000, 09/04/2023
+138,Fish,Dried Shrimp,Kilogram,400--1200,Quintal,110000--110000, 09/04/2023
+139,Fish,Dried Kachki,Kilogram,650--700,Quintal,65000--65000, 09/04/2023
+140,Fish,Salted Hilsha,Kilogram,550--600,Quintal,55000--55000, 09/04/2023
+141,Fish,Ruhi (Local) big (above 5 kg),Kilogram,275--324,Quintal,29500--29500, 09/04/2023
+142,Fish,Ruhi (Local) - medium (2.50-4.50 kg),Kilogram,304--362,Quintal,32077--32077, 09/04/2023
+143,Fish,Ruhi (Local) - small (1.50-2.00 kg),Kilogram,294--338,Quintal,30144--30144, 09/04/2023
+144,Fish,Ruhi (Imported) medium (2.50-4.50 kg),Kilogram,270--290,Quintal,26250--26250, 09/04/2023
+145,Fish,Ruhi (Imported) small (1.50-2.00 kg),Kilogram,250--350,Quintal,32000--32000, 09/04/2023
+146,Fish,Ruhi (Imported) big (above 5 kg),Kilogram,200--300,Quintal,27000--27000, 09/04/2023
+147,Fish,Katla-Big (above 5 Kg),Kilogram,405--465,Quintal,43000--43000, 09/04/2023
+148,Fish,Katla-Medium (2.50-4.50 kg),Kilogram,279--324,Quintal,29425--29425, 09/04/2023
+149,Fish,Katla-Small (1.50-2.00 kg),Kilogram,261--305,Quintal,27739--27739, 09/04/2023
+150,Fish,Katla (Local),Kilogram,307--337,Quintal,31286--31286, 09/04/2023
+151,Fish,Katla-Imported,Kilogram,270--320,Quintal,25000--25000, 09/04/2023
+152,Fish,Mregal-big,Kilogram,226--259,Quintal,23143--23143, 09/04/2023
+153,Fish,Mregal-small,Kilogram,186--211,Quintal,18938--18938, 09/04/2023
+154,Fish,Ahire-big,Kilogram,900--1100,Quintal,100000--100000, 09/04/2023
+155,Fish,Ahire-small,Kilogram,600--700,Quintal,65000--65000, 09/04/2023
+156,Fish,Boal-big,Kilogram,800--1050,Quintal,120000--120000, 09/04/2023
+157,Fish,Boal-small,Kilogram,425--475,Quintal,42500--42500, 09/04/2023
+158,Fish,Chitol-(big),Kilogram,800--850,Quintal,80000--80000, 09/04/2023
+159,Fish,Chitol-(small),Kilogram,450--500,Quintal,45000--45000, 09/04/2023
+160,Fish,Pangash (small),Kilogram,146--164,Quintal,14300--14300, 09/04/2023
+161,Fish,Pangash (big),Kilogram,169--192,Quintal,16476--16476, 09/04/2023
+162,Fish,Hilsha,Kilogram,641--1270,Quintal,110158--110158, 09/04/2023
+163,Fish,Shrimp Bagda,Kilogram,900--1000,Quintal,95000--95000, 09/04/2023
+164,Fish,Shrimp Golda,Kilogram,838--1013,Quintal,90750--90750, 09/04/2023
+165,Fish,Shrimp-small,Kilogram,613--683,Quintal,62333--62333, 09/04/2023
+166,Fish,Kai,Kilogram,210--245,Quintal,20000--20000, 09/04/2023
+167,Fish,Magur,Kilogram,445--480,Quintal,46000--46000, 09/04/2023
+168,Fish,Singhi,Kilogram,368--500,Quintal,44250--44250, 09/04/2023
+169,Fish,Silver Carp,Kilogram,163--203,Quintal,17673--17673, 09/04/2023
+170,Fish,Grass carp,Kilogram,191--226,Quintal,20000--20000, 09/04/2023
+171,Fish,Telapia/Nilotica,Kilogram,156--185,Quintal,16097--16097, 09/04/2023
+172,Fish,Rupchanda,Kilogram,650--850,Quintal,70000--70000, 09/04/2023
+173,Fish,Koral,Kilogram,575--700,Quintal,62500--62500, 09/04/2023
+174,Fish,Poah,Kilogram,300--400,Quintal,35000--35000, 09/04/2023
+175,Betel Nut/Betel Leaf,Dry Betel Nut-Superior Quality,Kilogram,430--460,Quintal,42500--42500, 09/04/2023
+176,Betel Nut/Betel Leaf,Dry Betel Nut Ordinary,Kilogram,405--415,Quintal,39500--39500, 09/04/2023
+177,Betel Nut/Betel Leaf,Betel Leaf (Big),Bira (80 leaves),126--139,Gadi (6400 leaves),11175--11175, 09/04/2023
+178,Betel Nut/Betel Leaf,Betel Leaf (Medium),Bira (80 leaves),98--109,Gadi (6400 leaves),7633--7633, 09/04/2023
+179,Betel Nut/Betel Leaf,Betel Leaf (Small),Bira (80 leaves),68--79,Gadi (6400 leaves),5367--5367, 09/04/2023
+180,Fruit,Green-Coconut,1 piece,66--83,100 pieces,6500--6500, 09/04/2023
+181,Fruit,Guava,1 KG,47--54,Quintal,3980--3980, 09/04/2023
+182,Fruit,Orange,4 Pieces,123--134,100 pieces,2800--2800, 09/04/2023
+183,Fruit,Apple,Kilogram,224--260,Quintal,23031--23031, 09/04/2023
+184,Fruit,Watermelon,1 piece,138--294,100 pieces,23900--23900, 09/04/2023
+185,Fruit,Coconut,1 piece,86--101,100 pieces,8400--8400, 09/04/2023
+186,Fruit,Guava (Kazi),Kilogram,55--65,Quintal,4750--4750, 09/04/2023
+187,Fruit,Alachi Lemon,1 piece,8--10,100 pieces,633--633, 09/04/2023
+188,Fruit,Cagoji Lemon,1 piece,8--10,100 pieces,664--664, 09/04/2023
+189,Fruit,Ripe Papaya (big),Kilogram,63--97,1 Bag (50kg),5000--5000, 09/04/2023
+190,Fruit,Ripe Papaya (small),Kilogram,57--67,1 Bag (50kg),5333--5333, 09/04/2023
+191,Fruit,Banana-Chapa,4 Pieces,19--24,80 Pieces,326--326, 09/04/2023
+192,Fruit,Banana-Sabri (high quality),4 Pieces,31--36,80 Pieces,544--544, 09/04/2023
+193,Fruit,Banana-Sabri (ordinary),4 Pieces,29--34,80 Pieces,547--547, 09/04/2023
+194,Fruit,Banana-Sagar (high quality),4 Pieces,22--29,80 Pieces,362--362, 09/04/2023
+195,Fruit,Banana-Sagar (ordinary),4 Pieces,21--25,80 Pieces,400--400, 09/04/2023
+196,Fruit,Pineapple-Kelenga,1 piece,30--40,100 pieces,3000--3000, 09/04/2023
+197,Fruit,Pineapple-Local,1 piece,35--42,100 pieces,3500--3500, 09/04/2023
+198,Fruit,Khurma,Kilogram,375--500,Quintal,43000--43000, 09/04/2023
+199,Fruit,Khejur (date),Kilogram,195--700,Quintal,59125--59125, 09/04/2023
+200,Fruit,Bangi (Melon),Kilogram,40--90,Kilogram,6667--6667, 09/04/2023
+201,Vegetable,Potato (Local) - Old,Kilogram,33--37,Quintal,3120--3120, 09/04/2023
+202,Vegetable,Potato (Local) - New,Kilogram,28--30,Quintal,2581--2581, 09/04/2023
+203,Vegetable,Potato (Holland) - White (Old),Kilogram,23--26,Quintal,2118--2118, 09/04/2023
+204,Vegetable,Potato (Holland) - White (New),Kilogram,24--26,Quintal,2057--2057, 09/04/2023
+205,Vegetable,Potato (Holland) - Red (Old),Kilogram,18--20,Quintal,1500--1500, 09/04/2023
+206,Vegetable,Potato (Holland) - Red (New),Kilogram,24--26,Quintal,2159--2159, 09/04/2023
+207,Vegetable,Sweet Potato,Kilogram,26--30,Quintal,2475--2475, 09/04/2023
+208,Vegetable,Brinjal - Superior Quality,Kilogram,48--56,Quintal,4542--4542, 09/04/2023
+209,Vegetable,Brinjal - Ordinary Quality,Kilogram,36--41,Quintal,3266--3266, 09/04/2023
+210,Vegetable,Patal (Pointed Gourd),Kilogram,60--67,Quintal,5554--5554, 09/04/2023
+211,Vegetable,Chalcumra (Water Gourd),1 piece,32--36,100 pieces,2967--2967, 09/04/2023
+212,Vegetable,Pumpkin (Sweet Gourd),Kilogram,25--29,Quintal,2244--2244, 09/04/2023
+213,Vegetable,Lao (Bottle Gourd),1 piece,25--29,100 pieces,2270--2270, 09/04/2023
+214,Vegetable,Uchehhe (Bitter Gourd),1 KG,59--66,1 Bag (50kg),5416--5416, 09/04/2023
+215,Vegetable,Karalla (Bitter Gourd),Kilogram,63--72,Quintal,5950--5950, 09/04/2023
+216,Vegetable,Jhinga (Tasle Gourd),Kilogram,65--72,Quintal,6008--6008, 09/04/2023
+217,Vegetable,Green Papaya,Kilogram,26--31,Quintal,2308--2308, 09/04/2023
+218,Vegetable,Mukhi Cachue (aroid),Kilogram,50--60,Quintal,4500--4500, 09/04/2023
+219,Vegetable,Lady`s Finger (Okra),Kilogram,53--60,Quintal,4930--4930, 09/04/2023
+220,Vegetable,Motorshooti (peas),Kilogram,50--60,Quintal,5000--5000, 09/04/2023
+221,Vegetable,Chichinga (Snakegourd),Kilogram,46--52,Quintal,4269--4269, 09/04/2023
+222,Vegetable,Dhundol,Kilogram,46--52,Quintal,4100--4100, 09/04/2023
+223,Vegetable,Danta,Kilogram,33--38,Quintal,2957--2957, 09/04/2023
+224,Vegetable,Cauliflower,Kilogram,28--32,Quintal,2600--2600, 09/04/2023
+225,Vegetable,Cabbage,Kilogram,28--40,Quintal,3000--3000, 09/04/2023
+226,Vegetable,Carrot,Kilogram,35--40,Quintal,3201--3201, 09/04/2023
+227,Vegetable,Green Banana,1 piece,28--33,100 pieces,2733--2733, 09/04/2023
+228,Vegetable,Kochur Loti (Aroid succer),Kilogram,65--73,Quintal,6083--6083, 09/04/2023
+229,Vegetable,Cucumber-big,Kilogram,37--46,Quintal,3478--3478, 09/04/2023
+230,Vegetable,Cucumber-small,Kilogram,39--45,Quintal,3474--3474, 09/04/2023
+231,Vegetable,Khirai (Small Cucumber),Kilogram,43--49,Quintal,3906--3906, 09/04/2023
+232,Vegetable,Bean(superior quality),Kilogram,41--49,Quintal,3813--3813, 09/04/2023
+233,Vegetable,Bean(Ordinary),Kilogram,40--46,Quintal,3760--3760, 09/04/2023
+234,Vegetable,Barbati (Yardlong bean),Kilogram,59--67,Quintal,5404--5404, 09/04/2023
+235,Vegetable,Tomato,Kilogram,23--28,Quintal,2115--2115, 09/04/2023
+236,Vegetable,Red Spinach,Kilogram,26--31,Quintal,2285--2285, 09/04/2023
+237,Vegetable,Spinach (Palongsak),Kilogram,22--26,Quintal,1914--1914, 09/04/2023
+238,Vegetable,Malabar Spinach (Puisak),Kilogram,25--29,Quintal,2205--2205, 09/04/2023
+239,Vegetable,Radish Local,Kilogram,40--50,Quintal,3800--3800, 09/04/2023
+240,Vegetable,Radish (China),Kilogram,30--34,Quintal,2650--2650, 09/04/2023
+241,Vegetable,Cabbage,1 piece,18--22,100 pieces,1633--1633, 09/04/2023
+242,Others,Gram-Husk,Kilogram,44--45,Quintal,4100--4100, 09/04/2023
+243,Others,Wheat-Husk,Kilogram,56--57,Quintal,5300--5300, 09/04/2023
+244,Others,Paddy-Husk,Kilogram,17--18,Quintal,1480--1480, 09/04/2023
+245,Others,Kharh (paddy straw),Kilogram,15--16,Quintal,1300--1300, 09/04/2023
+246,Others,Masur-Husk,Kilogram,34--35,Quintal,3100--3100, 09/04/2023
+247,Others,Firewood - Mango,Kilogram,10--12,Quintal,875--875, 09/04/2023
+248,Others,Sugar (Imported),Kilogram,112--114,Quintal,10986--10986, 09/04/2023
+249,Others,Sugar (Local),Kilogram,113--115,Quintal,11231--11231, 09/04/2023
+250,Others,Iodized Salt (Packed),Kilogram,33--39,Quintal,3437--3437, 09/04/2023
+251,Others,Iodized Salt (Loose) - Ordinary,Kilogram,21--23,Quintal,1975--1975, 09/04/2023
+252,Others,Akher Gur (red sugar),Kilogram,119--128,Quintal,11333--11333, 09/04/2023
+253,Fertilizer,Chemical Fertilizer - Urea (Zia),Kilogram,21--22,1 Bag (50kg),1100--1100, 09/04/2023
+254,Fertilizer,Chemical Fertilizer - Urea (Jamuna),Kilogram,23--24,1 Bag (50kg),1103--1103, 09/04/2023
+255,Fertilizer,Chemical Fertilizer - Urea (Ghorashal),Kilogram,22--24,1 Bag (50kg),1110--1110, 09/04/2023
+256,Fertilizer,Chemical Fertilizer - Urea (Kafco),Kilogram,22--23,1 Bag (50kg),1105--1105, 09/04/2023
+257,Fertilizer,Chemical Fertilizer - T. S. P. (Local),Kilogram,22--23,1 Bag (50kg),1110--1110, 09/04/2023
+258,Fertilizer,Chemical Fertilizer - D. A. P,Kilogram,16--17,1 Bag (50kg),808--808, 09/04/2023
+259,Fertilizer,Chemical Fertilizer - M. P (Imported) - China,Kilogram,15--16,1 Bag (50kg),767--767, 09/04/2023
+260,Fertilizer,Chemical Fertilizer - M. P (Imported) - Russia,Kilogram,15--17,1 Bag (50kg),760--760, 09/04/2023
+261,Fertilizer,Chemical Fertilizer - Zinc (Local),Kilogram,80--220,1 Bag (50kg),, 09/04/2023
+262,Fertilizer,Chemical Fertilizer - Gypsum (Local),Kilogram,10--12,1 Bag (50kg),500--500, 09/04/2023

@@ -1,0 +1,63 @@
+Serial Number,Product Group,Product Name and Description,Unit Retail,Retail Price (Tk) Lowest Price - Highest Price,Unit Wholesale,Wholesale Price (Tk) Lowest Price - Highest Price,Price Date
+1,Foodgrains,Aman-Fine,Kilogram,,Quintal,4550--4550, 25/01/2014
+2,Foodgrains,Aman-Medium,Kilogram,36--38,Quintal,, 25/01/2014
+3,Foodgrains,Aman-Coarse,Kilogram,32--33,Quintal,3250--3250, 25/01/2014
+4,Foodgrains,Boro-HYV-Fine,Kilogram,44--46,Quintal,4400--4400, 25/01/2014
+5,Foodgrains,Boro-HYV-Medium,Kilogram,37--40,Quintal,3750--3750, 25/01/2014
+6,Foodgrains,Boro-HYV-Coarse,Kilogram,33--34,Quintal,3300--3300, 25/01/2014
+7,Foodgrains,Aman-HYV-Medium,Kilogram,,Quintal,3600--3600, 25/01/2014
+8,Foodgrains,Boro-Local,Kilogram,31--33,Quintal,3200--3200, 25/01/2014
+9,Foodgrains,Ata (loose) - white,Kilogram,31--33,Quintal,3000--3000, 25/01/2014
+10,Foodgrains,Ata (packet),Kilogram,36--39,Quintal,3400--3400, 25/01/2014
+11,Foodgrains,Flour (loose),Kilogram,36--42,Quintal,, 25/01/2014
+12,Foodgrains,Flour (packet),Kilogram,46--48,Quintal,, 25/01/2014
+13,Dal,Mash (broken),Kilogram,70--75,Quintal,7000--7000, 25/01/2014
+14,Dal,Masur (whole) local,Kilogram,95--100,Quintal,10500--10500, 25/01/2014
+15,Dal,Masur (Imported) Superior quality,Kilogram,98--103,Quintal,9850--9850, 25/01/2014
+16,Dal,Masur (Imported) ordinary,Kilogram,80--85,Quintal,8000--8000, 25/01/2014
+17,Dal,Mung (imported),Kilogram,110--120,Quintal,12000--12000, 25/01/2014
+18,Oil,Mustard Oil (Local) - Superior quality,Liter,110--114,100 Liters,, 25/01/2014
+19,Oil,Mustard Oil (Local) - Ordinary,Liter,,100 Liters,10500--10500, 25/01/2014
+20,Oil,Soybean Oil(loose),Liter,101--103,100 Liters,10000--10000, 25/01/2014
+21,Oil,Palm Oil,Liter,73--74,100 Liters,7320--7320, 25/01/2014
+22,Spices,Dried Chili (Barisal/Raypur/Chandpur) - Superior,Kilogram,200--220,Quintal,, 25/01/2014
+23,Spices,Dried Chili (Bogra/Rangpur) - Ordinary,Kilogram,170--180,Quintal,, 25/01/2014
+24,Spices,Dried Chili (Barisal/Raypur/Chandpur) - Ordinary,Kilogram,150--160,Quintal,17500--17500, 25/01/2014
+25,Spices,Onion (local),Kilogram,20--25,Quintal,2250--2250, 25/01/2014
+26,Spices,Onion-imported,Kilogram,23--24,Quintal,2200--2200, 25/01/2014
+27,Spices,Garlic (local) - Big Size,Kilogram,75--90,Quintal,8250--8250, 25/01/2014
+28,Spices,Green Chili (Local),Kilogram,28--33,Quintal,2500--2500, 25/01/2014
+29,Spices,Ginger (local) - New,Kilogram,130--140,Quintal,13000--13000, 25/01/2014
+30,Spices,Ginger (Imported),Kilogram,,Quintal,11000--11000, 25/01/2014
+31,Poultry,Farm-raised Hen,Kilogram,125--130,Quintal,12750--12750, 25/01/2014
+32,Meat,Beef,Kilogram,280--300,Quintal,29000--29000, 25/01/2014
+33,Meat,Mutton (male),Kilogram,380--400,Quintal,40000--40000, 25/01/2014
+34,Egg,Egg Farm-Red,4 Pieces,334--339,100 pieces,635--635, 25/01/2014
+35,Egg,Egg Farm-White,4 Pieces,620--630,100 pieces,630--630, 25/01/2014
+36,Egg,Egg Duck-Local,4 Pieces,30--30,100 pieces,720--720, 25/01/2014
+37,Fish,Ruhi (Local) - small (1.50-2.00 kg),Kilogram,250--300,Quintal,27000--27000, 25/01/2014
+38,Fish,Katla-Small (1.50-2.00 kg),Kilogram,,Quintal,23000--23000, 25/01/2014
+39,Fish,Katla (Local),Kilogram,200--250,Quintal,, 25/01/2014
+40,Fish,Pangash (small),Kilogram,,Quintal,9000--9000, 25/01/2014
+41,Fish,Pangash (big),Kilogram,,Quintal,10000--10000, 25/01/2014
+42,Fish,Grass carp,Kilogram,,Quintal,15000--15000, 25/01/2014
+43,Vegetable,Potato (Local) - New,Kilogram,12--14,Quintal,1000--1000, 25/01/2014
+44,Vegetable,Potato (Holland) - White (New),Kilogram,7--9,Quintal,650--650, 25/01/2014
+45,Vegetable,Potato (Holland) - Red (New),Kilogram,10--12,Quintal,1000--1000, 25/01/2014
+46,Vegetable,Brinjal - Superior Quality,Kilogram,26--28,Quintal,2000--2000, 25/01/2014
+47,Vegetable,Brinjal - Ordinary Quality,Kilogram,16--20,Quintal,1450--1450, 25/01/2014
+48,Vegetable,Lao (Bottle Gourd),1 piece,18--20,100 pieces,1200--1200, 25/01/2014
+49,Vegetable,Green Papaya,Kilogram,13--15,Quintal,1000--1000, 25/01/2014
+50,Vegetable,Cauliflower,Kilogram,11--15,Quintal,1350--1350, 25/01/2014
+51,Vegetable,Cabbage,Kilogram,8--10,Quintal,800--800, 25/01/2014
+52,Vegetable,Cucumber-big,Kilogram,24--28,Quintal,, 25/01/2014
+53,Vegetable,Cucumber-small,Kilogram,20--25,Quintal,2200--2200, 25/01/2014
+54,Vegetable,Bean(superior quality),Kilogram,17--20,Quintal,1800--1800, 25/01/2014
+55,Vegetable,Bean(Ordinary),Kilogram,14--16,Quintal,1400--1400, 25/01/2014
+56,Vegetable,Tomato,Kilogram,16--20,Quintal,1600--1600, 25/01/2014
+57,Vegetable,Tomato Green,Kilogram,8--11,Quintal,500--500, 25/01/2014
+58,Vegetable,Red Spinach,Kilogram,12--14,Quintal,, 25/01/2014
+59,Vegetable,Radish (China),Kilogram,5--6,Quintal,450--450, 25/01/2014
+60,Others,Sugar (Imported),Kilogram,45--47,Quintal,4400--4400, 25/01/2014
+61,Others,Sugar (Local),Kilogram,44--45,Quintal,4150--4150, 25/01/2014
+62,Others,Iodized Salt (Packed),Kilogram,12--26,Quintal,2300--2300, 25/01/2014

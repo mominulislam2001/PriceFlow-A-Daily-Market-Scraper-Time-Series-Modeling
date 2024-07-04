@@ -1,0 +1,66 @@
+Serial Number,Product Group,Product Name and Description,Unit Retail,Retail Price (Tk) Lowest Price - Highest Price,Unit Wholesale,Wholesale Price (Tk) Lowest Price - Highest Price,Price Date
+1,Foodgrains,Aman-Local-Coarse,Kilogram,24--25,Quintal,2250--2250, 30/11/2016
+2,Foodgrains,Aman-HYV-Medium,Kilogram,26--27,Quintal,2375--2375, 30/11/2016
+3,Foodgrains,Boro-Medium,Kilogram,29--30,Quintal,2750--2750, 30/11/2016
+4,Foodgrains,Boro Coarse,Kilogram,28--29,Quintal,2650--2650, 30/11/2016
+5,Foodgrains,Boro-HYV-Fine,Kilogram,60--62,Quintal,5900--5900, 30/11/2016
+6,Foodgrains,Boro-HYV-Medium,Kilogram,52--54,Quintal,5200--5200, 30/11/2016
+7,Foodgrains,Boro-HYV-Coarse,Kilogram,44--45,Quintal,4300--4300, 30/11/2016
+8,Foodgrains,Ata (loose) - white,Kilogram,34--35,Quintal,3300--3300, 30/11/2016
+9,Foodgrains,Ata (packet),Kilogram,38--40,Quintal,3800--3800, 30/11/2016
+10,Foodgrains,Chinigura,Kilogram,90--95,Quintal,8700--8700, 30/11/2016
+11,Foodgrains,Kalojira,Kilogram,85--90,Quintal,8200--8200, 30/11/2016
+12,Dal,Masur (whole) local,Kilogram,115--120,Quintal,11400--11400, 30/11/2016
+13,Dal,Masur (broken) local,Kilogram,80--85,Quintal,7600--7600, 30/11/2016
+14,Dal,Masur (Imported) Superior quality,Kilogram,95--100,Quintal,9200--9200, 30/11/2016
+15,Dal,Masur (Imported) ordinary,Kilogram,80--85,Quintal,8000--8000, 30/11/2016
+16,Dal,Mung (local),Kilogram,120--125,Quintal,12000--12000, 30/11/2016
+17,Dal,Mung (imported),Kilogram,90--95,Quintal,9000--9000, 30/11/2016
+18,Dal,Gram (whole),Kilogram,80--85,Quintal,8000--8000, 30/11/2016
+19,Dal,Motar (Peas)-Imported,Kilogram,44--45,Quintal,4000--4000, 30/11/2016
+20,Oil,Mustard Oil (Local) - Superior quality,Liter,200--210,100 Liters,19000--19000, 30/11/2016
+21,Oil,Soybean Oil(loose),Liter,140--142,100 Liters,13800--13800, 30/11/2016
+22,Oil,Palm Oil,Liter,130--132,100 Liters,12800--12800, 30/11/2016
+23,Spices,Turmeric (Local) - Long (Superior),Kilogram,160--180,Quintal,15000--15000, 30/11/2016
+24,Spices,Dried Chili (Local) - Ordinary,Kilogram,140--150,Quintal,13000--13000, 30/11/2016
+25,Spices,Onion (local),Kilogram,50--52,Quintal,4700--4700, 30/11/2016
+26,Spices,Garlic (local) - Big Size,Kilogram,45--50,Quintal,3500--3500, 30/11/2016
+27,Spices,Green Chili (Local),Kilogram,70--80,Quintal,6000--6000, 30/11/2016
+28,Spices,Ginger (local) - Old,Kilogram,60--70,Quintal,5200--5200, 30/11/2016
+29,Spices,Ginger (Imported),Kilogram,80--90,Quintal,8000--8000, 30/11/2016
+30,Fibre,Tossa Cotton (Garsat - Average quality),Kilogram,80--85,Quintal,8000--8000, 30/11/2016
+31,Meat,Beef,Kilogram,550--580,Quintal,54000--54000, 30/11/2016
+32,Meat,Local,Kilogram,480--520,Quintal,48000--48000, 30/11/2016
+33,Meat,Broiler Farm,Kilogram,145--150,Quintal,14000--14000, 30/11/2016
+34,Egg,Egg Farm-Red,4 Pieces,34--35,100 pieces,750--750, 30/11/2016
+35,Egg,Egg Duck-Local,4 Pieces,45--50,100 pieces,1150--1150, 30/11/2016
+36,Fish,Ruhi (Local) big (above 5 kg),Kilogram,250--350,Quintal,32000--32000, 30/11/2016
+37,Fish,Katla-Medium (2.50-4.50 kg),Kilogram,220--320,Quintal,30000--30000, 30/11/2016
+38,Fish,Mregal-big,Kilogram,140--200,Quintal,20000--20000, 30/11/2016
+39,Fish,Pangash (big),Kilogram,130--150,Quintal,13000--13000, 30/11/2016
+40,Fish,Hilsha,Kilogram,400--1000,Quintal,80000--80000, 30/11/2016
+41,Fish,Silver Carp,Kilogram,120--170,Quintal,15000--15000, 30/11/2016
+42,Fish,Telapia/Nilotica,Kilogram,130--160,Quintal,13000--13000, 30/11/2016
+43,Fruit,Banana-Sagar (high quality),4 Pieces,20--25,80 Pieces,400--400, 30/11/2016
+44,Vegetable,Potato (Holland) - White (Old),Kilogram,24--25,Quintal,2200--2200, 30/11/2016
+45,Vegetable,Brinjal - Superior Quality,Kilogram,30--35,Quintal,2800--2800, 30/11/2016
+46,Vegetable,Brinjal - Ordinary Quality,Kilogram,24--25,Quintal,2000--2000, 30/11/2016
+47,Vegetable,Pumpkin (Sweet Gourd),Kilogram,35--40,Quintal,3200--3200, 30/11/2016
+48,Vegetable,Lao (Bottle Gourd),1 piece,25--30,100 pieces,2500--2500, 30/11/2016
+49,Vegetable,Karalla (Bitter Gourd),Kilogram,50--55,Quintal,5000--5000, 30/11/2016
+50,Vegetable,Green Papaya,Kilogram,24--25,Quintal,1800--1800, 30/11/2016
+51,Vegetable,Lady`s Finger (Okra),Kilogram,45--50,Quintal,4200--4200, 30/11/2016
+52,Vegetable,Dhundol,Kilogram,30--35,Quintal,2700--2700, 30/11/2016
+53,Vegetable,Cauliflower,Kilogram,30--35,Quintal,2400--2400, 30/11/2016
+54,Vegetable,Cabbage,Kilogram,30--35,Quintal,2400--2400, 30/11/2016
+55,Vegetable,Carrot,Kilogram,100--110,Quintal,10000--10000, 30/11/2016
+56,Vegetable,Cucumber-small,Kilogram,30--35,Quintal,2600--2600, 30/11/2016
+57,Vegetable,Khirai (Small Cucumber),Kilogram,35--40,Quintal,2700--2700, 30/11/2016
+58,Vegetable,Bean(superior quality),Kilogram,60--70,Quintal,5500--5500, 30/11/2016
+59,Vegetable,Bean(Ordinary),Kilogram,40--45,Quintal,3500--3500, 30/11/2016
+60,Vegetable,Barbati (Yardlong bean),Kilogram,40--45,Quintal,4000--4000, 30/11/2016
+61,Vegetable,Tomato (Imported),Kilogram,100--110,Quintal,9000--9000, 30/11/2016
+62,Vegetable,Red Spinach,Kilogram,25--30,Quintal,1800--1800, 30/11/2016
+63,Vegetable,Spinach (Palongsak),Kilogram,35--40,Quintal,2700--2700, 30/11/2016
+64,Vegetable,Radish (China),Kilogram,20--25,Quintal,2000--2000, 30/11/2016
+65,Others,Sugar (Imported),Kilogram,80--82,Quintal,7800--7800, 30/11/2016

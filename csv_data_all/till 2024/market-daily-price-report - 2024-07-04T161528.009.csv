@@ -1,0 +1,56 @@
+Serial Number,Product Group,Product Name and Description,Unit Retail,Retail Price (Tk) Lowest Price - Highest Price,Unit Wholesale,Wholesale Price (Tk) Lowest Price - Highest Price,Price Date
+1,Foodgrains,Boro Coarse,Kilogram,28--29,Quintal,2800--2800, 08/09/2023
+2,Foodgrains,Boro-HYV-Fine,Kilogram,63--70,Quintal,6600--6600, 08/09/2023
+3,Foodgrains,Boro-HYV-Medium,Kilogram,52--56,Quintal,5200--5200, 08/09/2023
+4,Foodgrains,Boro-HYV-Coarse,Kilogram,48--50,Quintal,4400--4400, 08/09/2023
+5,Foodgrains,Ata (loose) - white,Kilogram,44--45,Quintal,4100--4100, 08/09/2023
+6,Foodgrains,Ata (packet),Kilogram,54--55,Quintal,5100--5100, 08/09/2023
+7,Foodgrains,Flour (loose),Kilogram,59--60,Quintal,5600--5600, 08/09/2023
+8,Foodgrains,Chinigura,Kilogram,130--135,Quintal,13000--13000, 08/09/2023
+9,Foodgrains,Kalojira,Kilogram,130--135,Quintal,13000--13000, 08/09/2023
+10,Dal,Masur (Imported) Superior quality,Kilogram,130--140,Quintal,13500--13500, 08/09/2023
+11,Dal,Masur (Imported) ordinary,Kilogram,100--105,Quintal,9500--9500, 08/09/2023
+12,Dal,Gram (whole),Kilogram,75--80,Quintal,7500--7500, 08/09/2023
+13,Dal,Khesari,Kilogram,85--90,Quintal,8300--8300, 08/09/2023
+14,Oil,Mustard Oil (Local) - Ordinary,Liter,210--220,100 Liters,20500--20500, 08/09/2023
+15,Oil,Soybean Oil(loose),Liter,159--160,100 Liters,15600--15600, 08/09/2023
+16,Oil,Palm Oil,Liter,127--128,100 Liters,12300--12300, 08/09/2023
+17,Spices,Onion (local),Kilogram,75--80,Quintal,7000--7000, 08/09/2023
+18,Spices,Onion-imported,Kilogram,65--70,Quintal,6200--6200, 08/09/2023
+19,Spices,Garlic (local) - Big Size,Kilogram,200--220,Quintal,20000--20000, 08/09/2023
+20,Spices,Green Chili (Local),Kilogram,110--120,Quintal,10000--10000, 08/09/2023
+21,Spices,Ginger (Imported),Kilogram,230--240,Quintal,21000--21000, 08/09/2023
+22,Poultry,Local Hen - Big (above 900 gm),Kilogram,540--550,Quintal,53000--53000, 08/09/2023
+23,Poultry,Farm-raised Hen,Kilogram,160--165,Quintal,15000--15000, 08/09/2023
+24,Meat,Beef,Kilogram,680--700,Quintal,68000--68000, 08/09/2023
+25,Egg,Egg Hen-Local,4 Pieces,70--75,100 pieces,1700--1700, 08/09/2023
+26,Egg,Egg Farm-Red,4 Pieces,50--52,100 pieces,1250--1250, 08/09/2023
+27,Egg,Egg Farm-White,4 Pieces,50--52,100 pieces,1250--1250, 08/09/2023
+28,Egg,Egg Duck-Local,4 Pieces,70--75,100 pieces,1700--1700, 08/09/2023
+29,Fish,Ruhi (Local) - small (1.50-2.00 kg),Kilogram,420--430,Quintal,40000--40000, 08/09/2023
+30,Fish,Katla-Small (1.50-2.00 kg),Kilogram,380--390,Quintal,36000--36000, 08/09/2023
+31,Fish,Mregal-small,Kilogram,240--250,Quintal,22000--22000, 08/09/2023
+32,Fish,Pangash (big),Kilogram,230--240,Quintal,21000--21000, 08/09/2023
+33,Fish,Silver Carp,Kilogram,280--290,Quintal,26000--26000, 08/09/2023
+34,Fish,Grass carp,Kilogram,380--390,Quintal,36000--36000, 08/09/2023
+35,Fish,Telapia/Nilotica,Kilogram,240--250,Quintal,22000--22000, 08/09/2023
+36,Fruit,Apple,Kilogram,300--320,Quintal,30000--30000, 08/09/2023
+37,Vegetable,Potato (Holland) - White (Old),Kilogram,44--45,Quintal,4000--4000, 08/09/2023
+38,Vegetable,Potato (Holland) - Red (Old),Kilogram,44--45,Quintal,4000--4000, 08/09/2023
+39,Vegetable,Brinjal - Superior Quality,Kilogram,65--70,Quintal,6000--6000, 08/09/2023
+40,Vegetable,Brinjal - Ordinary Quality,Kilogram,55--60,Quintal,5000--5000, 08/09/2023
+41,Vegetable,Patal (Pointed Gourd),Kilogram,38--40,Quintal,3200--3200, 08/09/2023
+42,Vegetable,Chalcumra (Water Gourd),Kilogram,18--20,Quintal,1600--1600, 08/09/2023
+43,Vegetable,Pumpkin (Sweet Gourd),Kilogram,35--40,Quintal,3000--3000, 08/09/2023
+44,Vegetable,Lao (Bottle Gourd),Kilogram,24--25,Quintal,2000--2000, 08/09/2023
+45,Vegetable,Uchehhe (Bitter Gourd),Kilogram,55--60,Quintal,5000--5000, 08/09/2023
+46,Vegetable,Green Papaya,Kilogram,28--30,Quintal,2400--2400, 08/09/2023
+47,Vegetable,Lady`s Finger (Okra),Kilogram,55--60,Quintal,5000--5000, 08/09/2023
+48,Vegetable,Chichinga (Snakegourd),Kilogram,38--40,Quintal,3200--3200, 08/09/2023
+49,Vegetable,Dhundol,Kilogram,28--30,Quintal,2400--2400, 08/09/2023
+50,Vegetable,Kochur Loti (Aroid succer),Kilogram,65--70,Quintal,6000--6000, 08/09/2023
+51,Vegetable,Cucumber-small,Kilogram,38--40,Quintal,3200--3200, 08/09/2023
+52,Vegetable,Barbati (Yardlong bean),Kilogram,55--60,Quintal,5000--5000, 08/09/2023
+53,Vegetable,Red Spinach,Kilogram,40--45,Quintal,3500--3500, 08/09/2023
+54,Vegetable,Malabar Spinach (Puisak),Kilogram,25--30,Quintal,2500--2500, 08/09/2023
+55,Others,Sugar (Imported),Kilogram,130--135,Quintal,12700--12700, 08/09/2023
