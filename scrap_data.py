@@ -77,6 +77,11 @@ def scrape_market_data(url, start_date, end_date):
                     download_file_btn = driver.find_element(By.XPATH, "//div[@class='btn btn_add_new']")
                     download_file_btn.click()
                     print(f"Download button clicked for date: {date_str}")
+                    
+                    
+                    
+                    
+                    
                 except Exception as download_err:
                     print(f"Error clicking download button for date {date_str}: {download_err}")
 
